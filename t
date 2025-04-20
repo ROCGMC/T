@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/ROCGMC/Sprit/main/sp/xxx.lua
